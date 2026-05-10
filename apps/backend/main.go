@@ -7,7 +7,7 @@ func main() {
 
 	r.GET("/", func(c *gin.Context) {
 		c.JSON(200, gin.H{
-			"message": "Aveniq API running",
+			"message": "Aveniq API running on 8080",
 		})
 	})
 
