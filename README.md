@@ -1,4 +1,4 @@
-# Turborepo starter
+# Aveniq
 
 This Turborepo starter is maintained by the Turborepo core team.
 
